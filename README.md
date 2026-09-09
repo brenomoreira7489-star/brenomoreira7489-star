@@ -17,7 +17,7 @@ Segurança da Informação
 
 🛠️ Tecnologias e Ferramentas
 
-Windows e Linux
+Windows , Linux,
 Redes e Suporte Técnico
 
 📈 Objetivos
