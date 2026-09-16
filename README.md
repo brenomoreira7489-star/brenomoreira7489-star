@@ -2,7 +2,7 @@
 
 🎓 Atualmente estou cursando Engenharia de Software e busco constantemente aprimorar meus conhecimentos em  tecnologia e inovação.
 
-💼 Possuo mais de 2 anos de experiência como Suporte Técnico de Informática na Prefeitura Municipal de São Tomás de Aquino - MG, atuando na manutenção de computadores, suporte a usuários, instalação e configuração de sistemas, redes e equipamentos de tecnologia.
+💼 Possuo mais de 2 anos de experiência como Suporte Técnico de Informática na Prefeitura Municipal de São Tomás de Aquino - MG, atuando na manutenção de computadores, suporte a usuários, instalação e configuração de sistemas, redes e equipamentos de tecnologia, com uma certa experiência em hardware.
 
 **🚀 Busco aprimorar meus conhecimentos:**
 
