@@ -1,31 +1,80 @@
-**Olá, eu sou Breno José de Souza Moreira 👋**
 
-🎓 Atualmente estou cursando Engenharia de Software e busco constantemente aprimorar meus conhecimentos em  tecnologia e inovação.
+<div align="center">
 
-💼 Possuo mais de 2 anos de experiência como Suporte Técnico de Informática na Prefeitura Municipal de São Tomás de Aquino - MG, atuando na manutenção de computadores, suporte a usuários, instalação e configuração de sistemas, redes e equipamentos de tecnologia, com uma certa experiência em hardware.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Breno+Jose+de+Souza+Moreira;Bem-vindo+ao+meu+GitHub!" alt="Breno José de Souza Moreira" />
 
-**🚀 Busco aprimorar meus conhecimentos:**
+### 💻 Engenharia de Software | 🛠️ Suporte Técnico | 🔐 Cibersegurança
 
-Desenvolvimento de Software
-Programação
-Infraestrutura de TI
-Redes de Computadores
-Banco de Dados
-Segurança da Informação
+*Tecnologia, aprendizado contínuo e vontade de evoluir.*
 
-📚 Estou sempre aprendendo novas tecnologias e desenvolvendo projetos para ampliar minhas habilidades técnicas e profissionais.
+</div>
 
-**🛠️ Tecnologias e Ferramentas**
+---
 
-Windows, Redes e Suporte Técnico
+## 👨‍💻 Sobre mim
 
-**📈 Objetivos**
+Olá! Sou **Breno José de Souza Moreira** 👋
 
-Busco evoluir continuamente como profissional de tecnologia, adquirindo experiência em desenvolvimento de software e contribuindo para projetos que gerem impacto positivo para pessoas e organizações.
+Atualmente curso **Engenharia de Software** e tenho **mais de 2 anos de experiência em Suporte Técnico de Informática** na **Prefeitura Municipal de São Tomás de Aquino – MG**.
 
-📫 Contato
+Durante esse período, trabalhei com manutenção de computadores, atendimento e suporte aos usuários, instalação e configuração de sistemas, redes, equipamentos de tecnologia e hardware.
 
-Sinta-se à vontade para conhecer meus projetos e acompanhar minha evolução profissional através deste perfil.
+Gosto de aprender novas tecnologias e estou sempre buscando melhorar meus conhecimentos.
 
-**⭐ Obrigado pela visita!**
+---
 
+## 🔐 Meu interesse em Cibersegurança
+
+Tenho grande interesse pela área de **Cibersegurança e Segurança da Informação**.
+
+Minha experiência com suporte técnico, manutenção de computadores e redes me motivou a conhecer mais sobre proteção de sistemas, redes e dados.
+
+Meu objetivo é continuar aprendendo, desenvolver minhas habilidades e construir uma carreira na área de **Cibersegurança**.
+
+---
+
+## 🛠️ Tecnologias e conhecimentos
+
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=58A6FF)
+![Redes](https://img.shields.io/badge/Redes-0D1117?style=for-the-badge&logo=cisco&logoColor=58A6FF)
+![Hardware](https://img.shields.io/badge/Hardware-0D1117?style=for-the-badge&logo=pcgamingwiki&logoColor=58A6FF)
+
+### 💼 Experiência profissional
+
+- Suporte técnico de informática
+- Manutenção de computadores
+- Instalação e configuração de sistemas
+- Redes de computadores
+- Hardware e equipamentos de TI
+- Atendimento e suporte ao usuário
+
+---
+
+## 📚 Áreas que busco desenvolver
+
+- 🔐 Cibersegurança e Segurança da Informação
+- 🌐 Redes de Computadores
+- 💻 Desenvolvimento de Software
+- 🐍 Programação
+- 🗄️ Banco de Dados
+- 🖥️ Infraestrutura de TI
+
+---
+
+## 🎯 Objetivos profissionais
+
+Quero continuar evoluindo como profissional de tecnologia, aproveitando minha experiência em suporte técnico e redes para desenvolver novos conhecimentos.
+
+Meu principal interesse é construir uma carreira em **Cibersegurança**, contribuindo para a proteção de sistemas, redes e informações.
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado pela visita!
+
+**Sempre aprendendo, evoluindo e explorando novas tecnologias.**
+
+</div>
+
+</div>
